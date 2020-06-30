@@ -11,7 +11,7 @@ A simple implementation of a Plotter - which when given various drawing commands
 
 ## Run the project
 
-Execuet the following commands to run the project:
+Execute the following commands to run the project:
 
 ### npm install (to install dependencies)
 ### npm start (to start the development server)
